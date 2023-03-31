@@ -1,6 +1,6 @@
 Name:		texlive-annotate-equations
 Version:	62932
-Release:	1
+Release:	2
 Summary:	Easily annotate math equations using TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/annotate-equations

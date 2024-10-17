@@ -3,7 +3,7 @@ Version:	67044
 Release:	1
 Summary:	Easily annotate math equations using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/annotate-equations
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/annotate-equations
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/annotate-equations.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/annotate-equations.doc.r%{version}.tar.xz
